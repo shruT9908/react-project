@@ -1,0 +1,28 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "'This is  the directory to learn node js and recat js'",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shruT9908/react-project.git"
+  },
+  "keywords": [
+    "react",
+    "node"
+  ],
+  "author": "Shruti K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shruT9908/react-project/issues"
+  },
+  "homepage": "https://github.com/shruT9908/react-project#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
